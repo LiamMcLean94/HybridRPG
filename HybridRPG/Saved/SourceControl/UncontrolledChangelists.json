@@ -161,7 +161,30 @@
 				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Input/IMC_RPG.uasset",
 				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Blueprints/Characters/Ren/ABP_Ren.uasset",
 				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Blueprints/Characters/Mei/ABP_Mei.uasset",
-				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Blueprints/Characters/Guard/ABP_Guard.uasset"
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Blueprints/Characters/Guard/ABP_Guard.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Asian_Village/maps/Asian_Village_Demo.umap",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Blueprints/Interfaces/BPI_Interaction.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Input/Actions/IA_Interact.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Widgets/WPB_DialogueIndicator.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Materials/MI_WidgetHybrid.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Widgets/WBP_SpeechBubble.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Widgets/WBP_HUD.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/DataTables/S_DialogueData.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/DataTables/DT_Dialogue.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/DataTables/DT_HybridRPG_Dialogue.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Sounds/S_Ambience_Birds_Cue.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Sounds/S_Ambience_General_Cue.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Sounds/S_Footstep_1_Cue.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Sounds/S_Dialogue_Cue.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Sounds/S_Event_FollowerJoin_Cue.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Materials/MF_OcclusionMask.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Asian_Village/materials/building_materials/base_materials/M_concrete.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Asian_Village/materials/building_materials/M_building_wood.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Asian_Village/materials/building_materials/M_column_decoration.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Asian_Village/materials/building_materials/base_materials/M_base_color.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Materials/MPC_Masking.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Sequences/S_Arrival.uasset",
+				"C:/Users/liam_/OneDrive/Desktop/Unreal Projects/HybridRPG/HybridRPG/Content/Materials/Widget3DPassThrough_Masked_OneSided.uasset"
 			]
 		}
 	]
